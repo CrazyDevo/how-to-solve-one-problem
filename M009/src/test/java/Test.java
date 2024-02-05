@@ -8,7 +8,6 @@ public class Test {
 
         driver.get("www.youtube.com");
 
-
         Thread.sleep(3000);
 
         driver.close();
